@@ -1,7 +1,7 @@
 #Restaurant-Rating-Analysis
 
-Title :- Restaurant Rating Analysis
-Done by :-Dharmateja
+Title    :- Restaurant Rating Analysis
+Done by  :-Dharmateja
 Tool used:-MS SQL Server
 
 ##Introduction:
